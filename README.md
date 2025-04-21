@@ -16,6 +16,23 @@ Um pequeno projeto em Python para gerenciar tarefas diretamente pelo terminal. P
 
 ## 🛠️ Estrutura do Projeto
 
+todo_python/
+├── src/
+│ ├── todo/
+│ │ ├── **init**.py
+│ │ ├── main.py  
+│ │ ├── manager.py  
+│ │ └── storage.py
+│
+├── tests/
+│ ├── test_manager.py
+│ └── test_storage.py
+│
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── pyproject.toml
+
 ---
 
 ## 💻 Como usar
