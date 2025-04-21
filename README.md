@@ -1,4 +1,4 @@
-# 📝 Todo CLI
+# 📝 Todo Python
 
 Um pequeno projeto em Python para gerenciar tarefas diretamente pelo terminal. Permite adicionar, listar, marcar como concluída, remover e atualizar tarefas com data.
 
