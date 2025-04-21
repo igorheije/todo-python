@@ -16,7 +16,7 @@ Um pequeno projeto em Python para gerenciar tarefas diretamente pelo terminal. P
 
 ## 🛠️ Estrutura do Projeto
 
-````text
+```text
 todo_python/
 ├── src/
 │   └── todo/
@@ -29,6 +29,7 @@ todo_python/
 ├── README.md
 └── requirements.txt
 
+```
 
 ---
 
@@ -39,7 +40,7 @@ todo_python/
 ```bash
 git clone https://github.com/igor-heije/todo-python.git
 cd todo-python
-````
+```
 
 ### 2. Execulte os comandos
 
