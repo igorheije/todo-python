@@ -35,35 +35,35 @@ todo_python/
 
 ## 💻 Como usar
 
-### 1. Clone o repositório
+## 1. Clone o repositório
 
 ```bash
 git clone https://github.com/igor-heije/todo-python.git
 cd todo-python
 ```
 
-### 2. Execulte os comandos
+## 2. Execulte os comandos
 
-# Adicionar uma tarefa
+### Adicionar uma tarefa
 
 python run.py add "Estudar Python"
 
-# Listar tarefas
+### Listar tarefas
 
 python run.py list
 
-# Marcar como concluída/não concluída
+### Marcar como concluída/não concluída
 
 python run.py done "Estudar Python"
 
-# Remover tarefa
+### Remover tarefa
 
 python run.py remove "Estudar Python"
 
-# Adicionar data
+### Adicionar data
 
 python run.py add_date "Estudar Go" "2025-04-25"
 
-### 3. Execulte os teste
+## 3. Execulte os teste
 
 PYTHONPATH=src pytest
