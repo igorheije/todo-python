@@ -44,23 +44,23 @@ cd todo-python
 
 ## 2. Execulte os comandos
 
-### Adicionar uma tarefa
+### - - Adicionar uma tarefa
 
 python run.py add "Estudar Python"
 
-### Listar tarefas
+### - Listar tarefas
 
 python run.py list
 
-### Marcar como concluída/não concluída
+### - Marcar como concluída/não concluída
 
 python run.py done "Estudar Python"
 
-### Remover tarefa
+### - Remover tarefa
 
 python run.py remove "Estudar Python"
 
-### Adicionar data
+### - Adicionar data
 
 python run.py add_date "Estudar Go" "2025-04-25"
 
