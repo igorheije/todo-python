@@ -26,6 +26,7 @@ todo_python/
 ├── tests/
 │   └── test_manager.py
 ├── todo.json
+├── run.py
 ├── README.md
 └── requirements.txt
 
@@ -44,7 +45,7 @@ cd todo-python
 
 ## 2. Execulte os comandos
 
-### - - Adicionar uma tarefa
+### - Adicionar uma tarefa
 
 python run.py add "Estudar Python"
 
